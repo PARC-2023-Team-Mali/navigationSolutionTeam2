@@ -15,6 +15,9 @@ Noms des membres de l’équipe:
     Nom et Prénom (Coach): 
       Sanogo Hamidou
 
+    Nom et Prénom (Membre): 
+      Diallo Seydou 
+
     Nom et Prénom (Capitain): 
       Kamate Panga Azazia 
 
@@ -24,8 +27,7 @@ Noms des membres de l’équipe:
     Nom et Prénom (Membre):
       Lansar Alpha Abdoulaye 
     
-    Nom et Prénom (Membre): 
-      Diallo Seydou 
+
     
 Dépendances
     Les Packages nécessaires sont:    (requis Python version 3)
